@@ -1,2 +1,2 @@
-# goSh
-Shell written in Golang
+# rush
+Shell Written in Rust

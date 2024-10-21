@@ -1,2 +1,2 @@
-# rush
-Shell Written in Rust
+# rust-Crack
+A Simple Password Cracker Written in Rust
